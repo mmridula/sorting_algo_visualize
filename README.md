@@ -1,1 +1,9 @@
-This is sorting visualizer which shows different types of sorting algorithm 
+- This is sorting visualizer which shows different types of sorting algorithm 
+- It can solve any given array using five types of sorting algorithm : 
+    - Selection sort 
+    - Bubble sort 
+    - Insertion sort 
+    - Merge sort 
+    - Quick sort 
+- We can also change the number of elements in array and specify the speed of solving .
+- We can generate a random new array . 
