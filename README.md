@@ -1,0 +1,1 @@
+This is sorting visualizer which shows different types of sorting algorithm 
